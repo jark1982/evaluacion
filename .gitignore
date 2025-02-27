@@ -1,0 +1,24 @@
+# Ignora todos los archivos de compilación
+/target/
+/.mvn/
+/.idea/
+/.settings/
+/.classpath
+/.project
+/.vscode/
+
+# Ignora todos los archivos de logs
+*.log
+
+# Ignora todos los archivos de configuración de IDE
+*.iml
+*.ipr
+*.iws
+
+# Ignora todos los archivos de configuración de Docker
+docker-compose.yml
+docker-compose.override.yml
+
+# Ignora todos los archivos de configuración de Maven
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
