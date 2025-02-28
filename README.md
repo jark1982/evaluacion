@@ -105,3 +105,6 @@ Este proyecto se distribuye bajo la licencia MIT.
 
 
 
+#### ✨ Tambien ademas de swagger puedes probar usando el proyecto Post man
+[Descargar Collection Post man](https://drive.google.com/file/d/18o5sabNhA5RIj-g2FdkPjLYmT1_GZp85/view?usp=drive_link)
+
